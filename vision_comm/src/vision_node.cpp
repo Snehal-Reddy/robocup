@@ -1,6 +1,6 @@
 #include "ros/ros.h"
 #include "std_msgs/String.h"
-
+#include <bits/stdc++.h>
 #include "robocup_ssl_client.h"
 #include <sstream>
 #include <krssg_ssl_msgs/SSL_DetectionFrame.h>
